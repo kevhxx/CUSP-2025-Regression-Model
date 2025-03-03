@@ -1,0 +1,5 @@
+0	mean_household_income	q
+1	fuel poverty	q
+2	year_built	q
+3	heating score	q
+4	ownership score	q
